@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: dark mode defaults */
+body {
+    @apply bg-gray-900 text-gray-100;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #f9fafb;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+}

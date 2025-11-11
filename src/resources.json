@@ -1,0 +1,406 @@
+{
+  "states": [
+    {
+      "name": "New Jersey",
+      "counties": [
+        {
+          "name": "Essex",
+          "towns": [
+            {
+              "name": "Montclair",
+              "resources": [
+                {
+                  "name": "Human Needs Food Pantry of Montclair",
+                  "description": "Food pantry and clothing center serving Montclair and Essex County.",
+                  "serviceType": "food_pantry",
+                  "address": "9 Label Street",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-746-4669",
+                  "email": "hnfpdirector@gmail.com",
+                  "website": "https://www.humanneedsfoodpantry.org",
+                  "hours": "Tue & Thu 12:30–3:00 PM",
+                  "eligibility": "Open to all residents in need",
+                  "appointmentRequired": false,
+                  "sourceUrl": "Montclair community listings",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "Toni's Kitchen (St. Luke's)",
+                  "description": "Soup kitchen & food ministry providing Meals to-Go and grocery distributions.",
+                  "serviceType": "soup_kitchen",
+                  "address": "73 S Fullerton Ave",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-932-0768",
+                  "website": "https://toniskitchen.org",
+                  "hours": "Thu–Sat 11:30–12:00; Sun 5:00–5:30 (Meals to-go)",
+                  "eligibility": "Open to all in need",
+                  "appointmentRequired": false,
+                  "sourceUrl": "Toni's Kitchen official",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "Salvation Army Montclair Citadel",
+                  "description": "Emergency shelter, emergency food bags, hot meals, and supportive services.",
+                  "serviceType": "shelter_food",
+                  "address": "13 Trinity Place",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-744-3312",
+                  "website": "https://easternusa.salvationarmy.org",
+                  "hours": "Emergency food Mon–Fri 9am–4pm; Meals vary",
+                  "eligibility": "Open to people in need",
+                  "appointmentRequired": false,
+                  "sourceUrl": "Salvation Army Montclair",
+                  "categoryNames": ["Shelter", "Food"]
+                },
+                {
+                  "name": "Cornerstone House (Salvation Army Montclair Citadel Shelter)",
+                  "description": "23-bed emergency shelter for families and individuals.",
+                  "serviceType": "shelter",
+                  "address": "13 Trinity Place",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-744-3312",
+                  "hours": "Nightly shelter operations; call for intake",
+                  "eligibility": "People experiencing homelessness",
+                  "appointmentRequired": true,
+                  "sourceUrl": "Local shelter directory",
+                  "categoryNames": ["Shelter", "Transitional Housing"]
+                },
+                {
+                  "name": "Family Promise of Essex County",
+                  "description": "Provides emergency shelter and case management for families with children.",
+                  "serviceType": "shelter",
+                  "address": "60 South Fullerton Ave, Suite 205",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-746-1400",
+                  "email": "info@fpessexnj.org",
+                  "hours": "Mon–Fri 9am–5pm",
+                  "eligibility": "Families with children facing homelessness",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.fpessexnj.org",
+                  "categoryNames": ["Shelter", "Transitional Housing"]
+                },
+                {
+                  "name": "Covenant House New Jersey (Nancy's Place, Montclair)",
+                  "description": "Transitional housing and support for homeless youth (ages 18–21) with mental health needs.",
+                  "serviceType": "shelter_youth",
+                  "address": "33 Willow St",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-744-8175",
+                  "email": "ajohnson@covenanthouse.org",
+                  "hours": "By referral/intake",
+                  "eligibility": "Homeless youth 18–21",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.covenanthouse.org/nancys-place",
+                  "categoryNames": ["Shelter", "Youth"]
+                },
+                {
+                  "name": "MHA Center for Behavioral Health (Montclair)",
+                  "description": "Mental health clinic providing therapy, psychiatric evaluation, and support groups.",
+                  "serviceType": "mental_health_clinic",
+                  "address": "33 South Fullerton Ave",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-509-9777",
+                  "hours": "By appointment, sliding scale accepted",
+                  "eligibility": "Priority to Essex residents; Medicaid/Medicare/uninsured accepted",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.mhanewjersey.org",
+                  "categoryNames": ["Mental Health", "Health"]
+                },
+                {
+                  "name": "Essex Recovery Center (Montclair)",
+                  "description": "Substance use and recovery outpatient services.",
+                  "serviceType": "health_substance_use",
+                  "address": "101 Park Street, Suite 3&4",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "862-485-8811",
+                  "hours": "Walk-ins for support groups; appointments for treatment",
+                  "eligibility": "Essex County residents, free or low-cost",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.essexrecovery.org",
+                  "categoryNames": ["Health", "Mental Health"]
+                },
+                {
+                  "name": "Oaks Integrated Care (Montclair)",
+                  "description": "Addiction treatment and psychiatric services.",
+                  "serviceType": "health_substance_use",
+                  "address": "104 Bloomfield Ave",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-783-6655",
+                  "hours": "By appointment, sliding scale/Medicaid accepted",
+                  "eligibility": "Adults in need of substance abuse recovery",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.oaksinc.org",
+                  "categoryNames": ["Health", "Mental Health"]
+                },
+                {
+                  "name": "Montclair Public Library – Social Work Service",
+                  "description": "Free on-site social work for crises, benefits applications, and referrals.",
+                  "serviceType": "social_service",
+                  "address": "50 South Fullerton Ave",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-744-0500 ext.2286",
+                  "hours": "Tue 4–6:15pm walk-ins, 6:30–7:15pm appt; Thu 12–2pm; 4th Sat 11–12:30 walk-in",
+                  "eligibility": "Open to all Montclair residents",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.montclairlibrary.org/services/social-worker",
+                  "categoryNames": ["Health", "Mental Health"]
+                }
+              ]
+            },
+            {
+              "name": "Newark",
+              "resources": [
+                {
+                  "name": "St. Rocco’s Emergency Family Shelter",
+                  "description": "Provides emergency shelter for homeless mothers with children; includes meals, clothing, life skills, and linkage to social and behavioral health services.",
+                  "serviceType": "homeless_shelter_women",
+                  "address": "368 S. 7th St, Newark 07103",
+                  "city": "Newark",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-286-4175",
+                  "hours": "24/7 intake (on-site)",
+                  "eligibility": "Homeless women (18+) with children; Essex residents",
+                  "appointmentRequired": true,
+                  "sourceUrl": "Local directory",
+                  "categoryNames": ["Shelter", "Women"]
+                },
+                {
+                  "name": "Newark Emergency Services for Families (NESF)",
+                  "description": "Drop-in center offering crisis intervention, emergency housing assistance, food pantry, clothing, and case management for individuals and families in crisis.",
+                  "serviceType": "homeless_services",
+                  "address": "982 Broad St, Newark 07102",
+                  "city": "Newark",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-639-2100",
+                  "email": "info@nesfnj.org",
+                  "website": "nesfnj.org",
+                  "hours": "M–F 8:30 am–4:30 pm (call for intake)",
+                  "eligibility": "Essex County residents in crisis",
+                  "appointmentRequired": true,
+                  "sourceUrl": "Local directory",
+                  "categoryNames": ["Shelter"]
+                }
+              ]
+            },
+            {
+              "name": "East Orange",
+              "resources": [
+                {
+                  "name": "Sierra House (Transitional Housing for Women)",
+                  "description": "Two-year transitional program for women (ages 18+) providing safe housing, counseling, education, job training and support services.",
+                  "serviceType": "transitional_housing",
+                  "address": "134 Evergreen Pl, E. Orange 07018",
+                  "city": "East Orange",
+                  "county": "Essex",
+                  "state": "New Jersey",
+                  "phone": "973-678-3556",
+                  "hours": "Office: M–F 9 am–5 pm",
+                  "eligibility": "Homeless/disadvantaged women (Essex)",
+                  "appointmentRequired": true,
+                  "sourceUrl": "Local directory",
+                  "categoryNames": ["Shelter", "Women"]
+                }
+              ]
+            }
+          ],
+          "resources": []
+        },
+        {
+          "name": "Morris",
+          "towns": [
+            {
+              "name": "Morristown",
+              "resources": [
+                {
+                  "name": "Family Promise of Morris County",
+                  "description": "Provides shelter and support for homeless families.",
+                  "serviceType": "shelter",
+                  "address": "100 South St",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "New Jersey",
+                  "phone": "973-285-5000",
+                  "email": "info@fpmorris.org",
+                  "hours": "Mon–Fri 9am–5pm",
+                  "eligibility": "Families with children experiencing homelessness",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.fpmorris.org",
+                  "categoryNames": ["Shelter", "Transitional Housing"]
+                },
+                {
+                  "name": "Community Soup Kitchen (Morristown)",
+                  "description": "Hot meals for individuals and families in need.",
+                  "serviceType": "soup_kitchen",
+                  "address": "55 Madison Ave",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "New Jersey",
+                  "phone": "973-455-2065",
+                  "hours": "Mon–Sat 12–1 PM",
+                  "eligibility": "Open to all in need",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscommunitykitchen.org",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Dover",
+              "resources": [
+                {
+                  "name": "Catholic Charities (CES – Morris County)",
+                  "description": "Emergency rental/utility assistance program to prevent homelessness (HPRP); helps Morris County families pay back rent/deposits and stabilize housing.",
+                  "serviceType": "homelessness_prevention",
+                  "address": "101–103 Bassett Hwy, Dover 07801",
+                  "city": "Dover",
+                  "county": "Morris",
+                  "state": "New Jersey",
+                  "phone": "(973) 361-5555 ext.3038",
+                  "email": "hprp@ccpaterson.org",
+                  "hours": "M–F 9:00 am–5:00 pm (by appointment)",
+                  "eligibility": "Morris County residents at risk of homelessness",
+                  "appointmentRequired": true,
+                  "sourceUrl": "Local directory",
+                  "categoryNames": ["Shelter"]
+                },
+                {
+                  "name": "Zufall Health – Dover (Medical Center)",
+                  "description": "Federally qualified community health center offering primary medical, dental and behavioral health care on a sliding fee scale.",
+                  "serviceType": "health_clinic",
+                  "address": "18 W. Blackwell St, Dover 07801",
+                  "city": "Dover",
+                  "county": "Morris",
+                  "state": "New Jersey",
+                  "phone": "973-328-9100",
+                  "hours": "Hours vary; call or see website",
+                  "eligibility": "All; accepts Medicaid and uninsured (sliding scale)",
+                  "appointmentRequired": true,
+                  "sourceUrl": "Local directory",
+                  "categoryNames": ["Health"]
+                }
+              ]
+            }
+          ],
+          "resources": []
+        },
+        {
+          "name": "Atlantic",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Bergen",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Burlington",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Camden",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Cape May",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Cumberland",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Gloucester",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Hudson",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Hunterdon",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Mercer",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Middlesex",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Monmouth",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Ocean",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Passaic",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Salem",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Somerset",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Sussex",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Union",
+          "towns": [],
+          "resources": []
+        },
+        {
+          "name": "Warren",
+          "towns": [],
+          "resources": []
+        }
+      ]
+    }
+  ]
+}

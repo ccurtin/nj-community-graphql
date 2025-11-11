@@ -1,0 +1,81 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model State {
+  id        Int       @id @default(autoincrement())
+  name      String    @unique
+  counties  County[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model County {
+  id        Int       @id @default(autoincrement())
+  name      String
+  state     State     @relation(fields: [stateId], references: [id])
+  stateId   Int
+  towns     Town[]
+  resources Resource[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  @@unique([name, stateId])
+}
+
+model Town {
+  id        Int       @id @default(autoincrement())
+  name      String
+  county    County    @relation(fields: [countyId], references: [id])
+  countyId  Int
+  resources Resource[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  @@unique([name, countyId])
+}
+
+model Category {
+  id        Int        @id @default(autoincrement())
+  name      String     @unique
+  resources Resource[] @relation("ResourceCategories")
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+}
+
+model Resource {
+  id          Int        @id @default(autoincrement())
+  name        String
+  description String?
+  serviceType String
+  address     String?
+  city        String?
+  county      String?
+  state       String?
+  zipCode     String?
+  phone       String?
+  email       String?
+  website     String?
+  hours       String?
+  eligibility String?
+  appointmentRequired Boolean @default(false)
+  sourceUrl   String?
+
+  townId      Int?           // nullable so county-wide resources work
+  town        Town?           @relation(fields: [townId], references: [id])
+
+  countyId    Int
+  countyRef   County          @relation(fields: [countyId], references: [id])
+
+  categories  Category[]      @relation("ResourceCategories") // <-- remove `references` for M:N
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+
+  @@unique([name, countyId])   // uniqueness constraint per county
+}

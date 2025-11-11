@@ -1,0 +1,1159 @@
+{
+  "states": [
+    {
+      "name": "New Jersey",
+      "counties": [
+        {
+          "name": "Morris",
+          "towns": [
+            {
+              "name": "Boonton",
+              "resources": [
+                {
+                  "name": "Town of Boonton Food Pantry",
+                  "description": "Weekly food distribution for Boonton residents.",
+                  "serviceType": "Food Pantry",
+                  "address": "100 Washington St",
+                  "city": "Boonton",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07005",
+                  "phone": "(973) 402-9410",
+                  "email": "",
+                  "website": "",
+                  "hours": "Mondays and Fridays 2:00pm–5:00pm",
+                  "eligibility": "Boonton residents and families in need",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.boonton.org/630/Food-Pantries-Financial-Assistance",
+                  "categoryNames": ["Food", "Social Services"]
+                },
+                {
+                  "name": "Loaves & Fishes Community Food Pantry",
+                  "description": "Food pantry at First Presbyterian Church (513 Birch St, Boonton) serving Boonton and nearby communities; open Wednesdays 4–6pm and Saturdays 9–11am:contentReference[oaicite:1]{index=1}.",
+                  "serviceType": "Food Pantry",
+                  "address": "513 Birch Street",
+                  "city": "Boonton",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07005",
+                  "phone": "(973) 352-7668",
+                  "email": "info@lfcfp.org",
+                  "website": "https://www.lfcfp.org",
+                  "hours": "Wednesday 4:00pm–6:00pm; Saturday 9:00am–11:00am",
+                  "eligibility": "Individuals and families facing food insecurity",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.lfcfp.org",
+                  "categoryNames": ["Food Pantry", "Social Services"]
+                },
+                {
+                  "name": "First Reformed Church Food Pantry",
+                  "description": "Food pantry at First Reformed Church (237 Washington St, Boonton) offering groceries to those in need; open Thursdays 3:30–5pm and the third Saturday 10am–12pm:contentReference[oaicite:2]{index=2}.",
+                  "serviceType": "Food Pantry",
+                  "address": "237 Washington Street",
+                  "city": "Boonton",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07005",
+                  "phone": "(973) 334-0317",
+                  "email": "firstrefchurchboonton@gmail.com",
+                  "website": "",
+                  "hours": "Thursday 3:30pm–5:00pm; Third Saturday 10:00am–12:00pm",
+                  "eligibility": "Residents of Boonton and families in need",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.boonton.org/630/Food-Pantries-Financial-Assistance",
+                  "categoryNames": ["Food Pantry", "Social Services"]
+                },
+                {
+                  "name": "Boonton Housing Authority",
+                  "description": "Public housing authority of the Town of Boonton providing safe, affordable housing to low-income families; operates 74 units in two complexes:contentReference[oaicite:3]{index=3}.",
+                  "serviceType": "Housing Assistance",
+                  "address": "125 Chestnut Street",
+                  "city": "Boonton",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07005",
+                  "phone": "(973) 335-0846",
+                  "email": "info@boontonhousing.org",
+                  "website": "https://boontonhousing.org",
+                  "hours": "Monday–Friday 9:00am–4:00pm",
+                  "eligibility": "Low-income families and individuals",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://boontonhousing.org",
+                  "categoryNames": ["Housing Assistance", "Social Services"]
+                },
+                {
+                  "name": "Boonton Community Center",
+                  "description": "Community center offering a variety of programs and services for residents of Boonton.",
+                  "serviceType": "Community Services",
+                  "address": "125 Chestnut Street",
+                  "city": "Boonton",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07005",
+                  "phone": "(973) 335-0846",
+                  "email": "info@boontoncommunitycenter.org",
+                  "website": "https://boontoncommunitycenter.org",
+                  "hours": "Monday–Friday 9:00am–4:00pm",
+                  "eligibility": "All residents of Boonton",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://boontoncommunitycenter.org",
+                  "categoryNames": ["Community Services", "Social Services"]
+                }
+              ]
+            },
+            {
+              "name": "Boonton Township",
+              "resources": []
+            },
+            {
+              "name": "Butler",
+              "resources": [
+                {
+                  "name": "Butler United Methodist Church Food Pantry",
+                  "description": "Food pantry for Butler residents.",
+                  "serviceType": "Food Pantry",
+                  "address": "5 Bartholdi Ave",
+                  "city": "Butler",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07405",
+                  "phone": "(973) 838-2026",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Chester Borough",
+              "resources": [
+                {
+                  "name": "Chester Food Pantry",
+                  "description": "Food pantry for Chester Borough residents.",
+                  "serviceType": "Food Pantry",
+                  "address": "100 North Road",
+                  "city": "Chester Borough",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07930",
+                  "phone": "(973) 879-2548",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Chester Township",
+              "resources": []
+            },
+            {
+              "name": "Denville",
+              "resources": [
+                {
+                  "name": "Denville Township Food Pantry",
+                  "description": "Food pantry for Denville Township residents.",
+                  "serviceType": "Food Pantry",
+                  "address": "1 St. Mary's Place, 2nd Floor",
+                  "city": "Denville",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07834",
+                  "phone": "(973) 625-8300 ext.269",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "St. Clare’s Meals on Wheels",
+                  "description": "Home-delivered meals for homebound seniors in Denville.",
+                  "serviceType": "Meals on Wheels",
+                  "address": "25 Pocono Road",
+                  "city": "Denville",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07834",
+                  "phone": "(973) 625-6010",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "Senior (60+) residents of Denville",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food", "Senior Services"]
+                }
+              ]
+            },
+            {
+              "name": "Dover",
+              "resources": [
+                {
+                  "name": "First Memorial Presbyterian Church Food Pantry",
+                  "description": "Food pantry in Dover.",
+                  "serviceType": "Food Pantry",
+                  "address": "51 West Blackwell St",
+                  "city": "Dover",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07801",
+                  "phone": "(973) 366-0216",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "Zufall Health – Dover (Medical Center)",
+                  "description": "Federally qualified community health center offering primary medical, dental and behavioral health care on a sliding fee scale.",
+                  "serviceType": "Health Clinic",
+                  "address": "18 W. Blackwell St",
+                  "city": "Dover",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07801",
+                  "phone": "(973) 328-9100",
+                  "email": "info@zufallhealth.org",
+                  "website": "https://www.zufallhealth.org",
+                  "hours": "Monday–Friday 8:30am–5:00pm",
+                  "eligibility": "All; accepts Medicaid and uninsured (sliding scale)",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Health Services"]
+                },
+                {
+                  "name": "Catholic Charities (CES – Morris County)",
+                  "description": "Emergency rental/utility assistance program to prevent homelessness (HPRP); helps Morris County families pay back rent/deposits and stabilize housing.",
+                  "serviceType": "Homelessness Prevention",
+                  "address": "101–103 Bassett Hwy",
+                  "city": "Dover",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07801",
+                  "phone": "(973) 361-5555 ext.3038",
+                  "hours": "M–F 9:00 am–5:00 pm",
+                  "eligibility": "Morris County residents at risk of homelessness",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Shelter"]
+                },
+                {
+                  "name": "Catholic Charities – Hope House Food Pantry (Dover)",
+                  "description": "Food pantry (consumer-choice) run by Catholic Charities in Dover; provides groceries and hygiene items to low-income families (open Mon–Thu 9:30am–1:00pm, Thurs 4:00pm–6:00pm):contentReference[oaicite:10]{index=10}.",
+                  "serviceType": "Food Pantry",
+                  "address": "101-103 Bassett Highway",
+                  "city": "Dover",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07801",
+                  "phone": "(973) 361-5555",
+                  "email": "cccs@ccpaterson.org",
+                  "website": "https://www.ccpaterson.org/hopehouse",
+                  "hours": "Monday–Thursday 9:30am–1:00pm; Thursday 4:00pm–6:00pm",
+                  "eligibility": "Low-income families in Morris County",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://ccpaterson.org/hopehouse",
+                  "categoryNames": ["Food Pantry", "Social Services"]
+                },
+                {
+                  "name": "Salvation Army of Dover (Lenape Valley Corps)",
+                  "description": "Provides shelter and social services in Dover.",
+                  "serviceType": "Shelter",
+                  "address": "76 N. Bergen St",
+                  "city": "Dover",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07801",
+                  "phone": "(973) 366-0764",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "Individuals and families in need",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Shelter", "Social Services"]
+                }
+              ]
+            },
+            {
+              "name": "Florham Park",
+              "resources": [
+                {
+                  "name": "Holy Family Church Food Pantry",
+                  "description": "Food pantry at Holy Family Parish, Florham Park.",
+                  "serviceType": "Food Pantry",
+                  "address": "1 Lloyd Ave",
+                  "city": "Florham Park",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07932",
+                  "phone": "(973) 377-7190",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Hanover Township",
+              "resources": []
+            },
+            {
+              "name": "Jefferson Township",
+              "resources": [
+                {
+                  "name": "Hurdtown United Methodist Church Food Pantry",
+                  "description": "Food pantry serving Jefferson Township/Lake Hopatcong residents.",
+                  "serviceType": "Food Pantry",
+                  "address": "823 NJ-15",
+                  "city": "Lake Hopatcong",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07849",
+                  "phone": "(973) 663-1216",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Kinnelon",
+              "resources": []
+            },
+            {
+              "name": "Lincoln Park",
+              "resources": []
+            },
+            {
+              "name": "Mendham Borough",
+              "resources": []
+            },
+            {
+              "name": "Mendham Township",
+              "resources": []
+            },
+            {
+              "name": "Mine Hill Township",
+              "resources": []
+            },
+            {
+              "name": "Montville",
+              "resources": [
+                {
+                  "name": "Montville Township Health Department (Boonton Board of Health Clinics)",
+                  "description": "Provides affordable health clinic services for Boonton Township residents through a partnership with Boonton Board of Health:contentReference[oaicite:5]{index=5}.",
+                  "serviceType": "Health Services",
+                  "address": "195 Changebridge Road",
+                  "city": "Montville",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07045",
+                  "phone": "(973) 331-3316",
+                  "email": "",
+                  "website": "https://www.montvillenj.org",
+                  "hours": "By appointment (call to register)",
+                  "eligibility": "Underinsured or uninsured Boonton Township residents",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.boontontownship.com/health-clinics",
+                  "categoryNames": ["Health Services"]
+                }
+              ]
+            },
+            {
+              "name": "Morristown",
+              "resources": [
+                {
+                  "name": "Family Promise of Morris County",
+                  "description": "Organization providing shelter and support for families and individuals facing homelessness.",
+                  "serviceType": "Shelter",
+                  "address": "51 Washington St",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07960",
+                  "phone": "(973) 644-0100",
+                  "email": "OurPromise@FamilyPromiseMorris.org",
+                  "website": "https://www.familypromisemorris.org/",
+                  "hours": "Drop-in: Mon–Thu 11am–3pm",
+                  "eligibility": "Families/individuals experiencing homelessness",
+                  "appointmentRequired": false,
+                  "categoryNames": ["Shelter", "Social Services"]
+                },
+                {
+                  "name": "Market Street Mission",
+                  "description": "Emergency shelter and meals for men in Morristown.",
+                  "serviceType": "Shelter",
+                  "address": "9 Market St",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07960",
+                  "phone": "(973) 538-0431",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "Men in need of shelter",
+                  "appointmentRequired": false,
+                  "categoryNames": ["Shelter", "Food"]
+                },
+                {
+                  "name": "Salvation Army of Morristown",
+                  "description": "Provides emergency shelter and support services.",
+                  "serviceType": "Shelter",
+                  "address": "95 Spring St",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07960",
+                  "phone": "(973) 539-2700",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "Individuals and families in need",
+                  "appointmentRequired": false,
+                  "categoryNames": ["Shelter", "Social Services"]
+                },
+                {
+                  "name": "Morris County Office of Temporary Assistance",
+                  "description": "County office providing financial and social services assistance.",
+                  "serviceType": "Public Assistance",
+                  "address": "340 W. Hanover Ave",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07960",
+                  "phone": "(973) 326-7800",
+                  "email": "",
+                  "website": "",
+                  "hours": "Mon–Fri 8:30am–4:30pm",
+                  "eligibility": "Morris County residents meeting program criteria",
+                  "appointmentRequired": true,
+                  "categoryNames": ["Social Services", "Government"]
+                },
+                {
+                  "name": "Atlantic Behavioral Health Services (Morristown Memorial)",
+                  "description": "24/7 psychiatric emergency and counseling services at Morristown Memorial Hospital.",
+                  "serviceType": "Hospital Behavioral Health",
+                  "address": "100 Madison Ave",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07960",
+                  "phone": "(973) 540-0100",
+                  "email": "",
+                  "website": "",
+                  "hours": "24/7 Crisis Services",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "categoryNames": ["Mental Health"]
+                },
+                {
+                  "name": "Our Promise Drop-In Resource Center",
+                  "description": "Daytime resource center operated by Family Promise of Morris County for individuals experiencing homelessness; provides meals, referrals, and supportive services during open hours:contentReference[oaicite:8]{index=8}.",
+                  "serviceType": "Day Shelter",
+                  "address": "51 Washington Street",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07960",
+                  "phone": "(973) 644-0100",
+                  "email": "OurPromise@FamilyPromiseMorris.org",
+                  "website": "https://www.familypromisemorris.org",
+                  "hours": "Monday–Thursday 11:00am–3:00pm",
+                  "eligibility": "Individuals experiencing homelessness",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.familypromisemorris.org/contact-us",
+                  "categoryNames": ["Homeless Services", "Social Services"]
+                },
+                {
+                  "name": "Morris County Home-Delivered Meals",
+                  "description": "Program delivering free weekly hot meals to homebound, low-income seniors and disabled residents of Morris County:contentReference[oaicite:11]{index=11}.",
+                  "serviceType": "Meals on Wheels",
+                  "address": "340 West Hanover Avenue",
+                  "city": "Morristown",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07960",
+                  "phone": "(973) 285-6856",
+                  "email": "MorrisNutrition@co.morris.nj.us",
+                  "website": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Nutrition-Program",
+                  "hours": "Monday–Friday 8:30am–4:30pm",
+                  "eligibility": "Morris County residents age 60+ or disabled and homebound",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://recreation.wtmorris.org/index.php/programs/adult-senior-programs/morris-county-home-delivered-meals-on-wheels",
+                  "categoryNames": ["Meals on Wheels", "Social Services"]
+                }
+              ]
+            },
+            {
+              "name": "Morris Plains",
+              "resources": [
+                {
+                  "name": "Morris County Department of Human Services",
+                  "description": "County agency offering broad social service programs: public assistance (healthcare, housing, food), financial aid, mental health, job training, youth prevention, veteran and disability support, senior services (including Meals on Wheels), and adult protective services:contentReference[oaicite:4]{index=4}.",
+                  "serviceType": "Social Services",
+                  "address": "1 Medical Drive",
+                  "city": "Morris Plains",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07950",
+                  "phone": "(973) 285-6868",
+                  "email": "",
+                  "website": "https://www.morriscountynj.gov/Departments/Human-Services",
+                  "hours": "Monday–Friday 8:30am–4:30pm",
+                  "eligibility": "Morris County residents in need of assistance",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Human-Services",
+                  "categoryNames": ["Social Services"]
+                },
+                {
+                  "name": "Interfaith Food Pantry Network of Morris County",
+                  "description": "Nonprofit network coordinating multiple food pantries and mobile distributions across Morris County to serve people facing hunger:contentReference[oaicite:9]{index=9}.",
+                  "serviceType": "Food Pantry Network",
+                  "address": "2 Executive Drive",
+                  "city": "Morris Plains",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07950",
+                  "phone": "(973) 538-8049",
+                  "email": "",
+                  "website": "https://www.mcifp.org",
+                  "hours": "Monday–Thursday 9:30am–4:30pm",
+                  "eligibility": "Morris County residents in need of food assistance",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.mcifp.org/contact-us",
+                  "categoryNames": ["Food Pantry", "Social Services"]
+                }
+              ]
+            },
+            {
+              "name": "Mount Arlington",
+              "resources": []
+            },
+            {
+              "name": "Mountain Lakes",
+              "resources": []
+            },
+            {
+              "name": "Netcong",
+              "resources": []
+            },
+            {
+              "name": "Parsippany-Troy Hills",
+              "resources": [
+                {
+                  "name": "St. Peter’s Food Pantry",
+                  "description": "Food pantry at St. Peter's Parish, Parsippany.",
+                  "serviceType": "Food Pantry",
+                  "address": "179 Baldwin Rd",
+                  "city": "Parsippany-Troy Hills",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07054",
+                  "phone": "(973) 334-2090",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Pequannock",
+              "resources": [
+                {
+                  "name": "First Reformed Church of Pequannock Food Pantry",
+                  "description": "Food pantry at First Reformed Church, Pompton Plains.",
+                  "serviceType": "Food Pantry",
+                  "address": "529 Newark-Pompton Tpk",
+                  "city": "Pompton Plains",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07444",
+                  "phone": "(973) 835-1144",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "Chilton Memorial Hospital Psychiatric Services",
+                  "description": "Hospital-based 24/7 crisis intervention services.",
+                  "serviceType": "Hospital - Psychiatric Services",
+                  "address": "97 W. Parkway",
+                  "city": "Pompton Plains",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07444",
+                  "phone": "(973) 831-5480",
+                  "email": "",
+                  "website": "https://www.chiltonhealth.org/",
+                  "hours": "24/7 Crisis Intervention",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Residents/Public-Health/Mental-Health",
+                  "categoryNames": ["Mental Health"]
+                }
+              ]
+            },
+            {
+              "name": "Randolph",
+              "resources": [
+                {
+                  "name": "Randolph Food Pantry",
+                  "description": "Food pantry serving Randolph Township residents.",
+                  "serviceType": "Food Pantry",
+                  "address": "30 Calais Rd",
+                  "city": "Randolph",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07869",
+                  "phone": "(973) 989-7084",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Rockaway",
+              "resources": [
+                {
+                  "name": "Care Center of New Jersey (Rockaway Township Food Pantry)",
+                  "description": "Food pantry serving the Rockaway area.",
+                  "serviceType": "Food Pantry",
+                  "address": "140 Green Pond Rd",
+                  "city": "Rockaway Township",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07866",
+                  "phone": "(973) 783-1010",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "Rockaway Food Closet",
+                  "description": "Food pantry at First Presbyterian Church, Rockaway Borough.",
+                  "serviceType": "Food Pantry",
+                  "address": "35 Church St",
+                  "city": "Rockaway Borough",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07866",
+                  "phone": "(973) 627-1059",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Roxbury",
+              "resources": [
+                {
+                  "name": "Roxbury Township Food Pantry",
+                  "description": "Food pantry at the Succasunna Community Center, Roxbury Twp.",
+                  "serviceType": "Food Pantry",
+                  "address": "72 Eyland Ave",
+                  "city": "Succasunna",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07876",
+                  "phone": "(973) 448-2026",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Victory Gardens",
+              "resources": []
+            },
+            {
+              "name": "Washington Township",
+              "resources": []
+            },
+            {
+              "name": "Wharton",
+              "resources": [
+                {
+                  "name": "Wharton United Community Church Food Pantry",
+                  "description": "Food pantry at St. John's, Wharton.",
+                  "serviceType": "Food Pantry",
+                  "address": "20 Church St",
+                  "city": "Wharton",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07885",
+                  "phone": "(973) 366-8140",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "St. Mary’s Parish Food Pantry",
+                  "description": "Food pantry at St. Mary’s in Wharton (also serves Dover).",
+                  "serviceType": "Food Pantry",
+                  "address": "425 W. Blackwell St",
+                  "city": "Wharton",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07885",
+                  "phone": "(973) 366-0184",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Whippany",
+              "resources": [
+                {
+                  "name": "First Presbyterian Church of Whippany Food Pantry",
+                  "description": "Food pantry serving Hanover Township/Whippany residents.",
+                  "serviceType": "Food Pantry",
+                  "address": "494 Route 10",
+                  "city": "Whippany",
+                  "county": "Morris",
+                  "state": "NJ",
+                  "zipCode": "07981",
+                  "phone": "(973) 887-2197",
+                  "email": "",
+                  "website": "",
+                  "hours": "",
+                  "eligibility": "",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.morriscountynj.gov/Departments/Aging-Disabilities-Community-Programming/Food-Pantries-and-Meal-Services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            }
+          ],
+          "resources": [
+            {
+              "name": "Navigating Hope Outreach Program (Morris County)",
+              "description": "Mobile outreach van providing case management, benefits enrollment (SNAP, Medicaid, WIC, TANF, etc.), and other social service referrals to low-income and homeless individuals across Morris County:contentReference[oaicite:7]{index=7}.",
+              "serviceType": "Outreach / Social Services",
+              "address": "Multiple locations (mobile unit)",
+              "city": "Morris County",
+              "county": "Morris",
+              "state": "NJ",
+              "zipCode": "",
+              "phone": "(973) 829-8220",
+              "email": "navigatinghope@co.morris.nj.us",
+              "website": "https://hs.morriscountynj.gov/navigating-hope",
+              "hours": "Visit mobile events (check county calendar)",
+              "eligibility": "Morris County residents with unmet social services needs",
+              "appointmentRequired": false,
+              "sourceUrl": "https://chathamlibrary.librarycalendar.com/event/navigating-hope-27454",
+              "categoryNames": ["Outreach", "Social Services"]
+            }
+          ]
+        },
+        {
+          "name": "Essex",
+          "towns": [
+            { "name": "Belleville", "resources": [] },
+            {
+              "name": "Bloomfield",
+              "resources": [
+                {
+                  "name": "Bloomfield Presbyterian Church Food Pantry",
+                  "description": "Church-run pantry open Wed and Fri mornings and fourth Sat to distribute food to Bloomfield residents with referrals required [oai_citation:0‡bplnj.org](https://www.bplnj.org/community-services#:~:text=Bloomfield%20Presbyterian%20Church%20Food%20Pantry).",
+                  "serviceType": "Food Pantry",
+                  "address": "147 Broad Street",
+                  "city": "Bloomfield",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07003",
+                  "phone": "(973) 743-1796",
+                  "email": "",
+                  "website": "http://bpcog.org",
+                  "hours": "Wed & Fri 9:30am–11am; 4th Sat 10am–12pm [oai_citation:1‡bplnj.org](https://www.bplnj.org/community-services#:~:text=Bloomfield%20Presbyterian%20Church%20Food%20Pantry)",
+                  "eligibility": "Bloomfield residents with referrals",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.bplnj.org/community-services",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            {
+              "name": "Caldwell",
+              "resources": [
+                {
+                  "name": "Caldwell Food Pantry",
+                  "description": "Municipal food pantry serving Caldwell and West Caldwell residents, accepting donated food in the town's Health & Human Services Department [oai_citation:2‡caldwell-nj.com](https://caldwell-nj.com/index.asp?SEC=CAD355E1-3E86-4CA5-9CEA-3D9822135AA3&DE=BB80C3B5-CF88-4F76-A9C7-EC05254E4F21#:~:text=3.%20Pantry%20Drop,on%20the%20back%20of%20the).",
+                  "serviceType": "Food Pantry",
+                  "address": "14 Park Avenue",
+                  "city": "Caldwell",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07006",
+                  "phone": "(973) 226-6100",
+                  "email": "",
+                  "website": "https://caldwell-nj.com/",
+                  "hours": "Mon–Fri 8:30am–5pm (drop-off during office hours)",
+                  "eligibility": "Caldwell and West Caldwell residents",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://caldwell-nj.com/",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            { "name": "Cedar Grove", "resources": [] },
+            {
+              "name": "East Orange",
+              "resources": [
+                {
+                  "name": "Isaiah House Emergency Family Shelter",
+                  "description": "Provides emergency shelter for homeless families and single women in Essex County, with private rooms allowing families to stay together. Full supportive services and meals provided 24/7 [oai_citation:3‡isaiahhouse.org](https://isaiahhouse.org/our_work/emergency-family-shelter/#:~:text=Immediate%2C%20emergency%20housing%20is%20available,in%20crisis%20to%20stay%20together) [oai_citation:4‡isaiahhouse.org](https://isaiahhouse.org/our_work/emergency-family-shelter/#:~:text=Isaiah%20House%20welcomes%20all%20definitions,maintain%20eligibility%20in%20state%20and).",
+                  "serviceType": "Shelter",
+                  "address": "238 North Munn Ave",
+                  "city": "East Orange",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07017",
+                  "phone": "(973) 678-5882",
+                  "email": "mmarzouk@isaiahhouse.org",
+                  "website": "https://isaiahhouse.org",
+                  "hours": "24/7, 365 days a year",
+                  "eligibility": "Homeless families and single women",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://isaiahhouse.org/",
+                  "categoryNames": ["Shelter", "Social Services"]
+                },
+                {
+                  "name": "Isaiah House Food Pantry",
+                  "description": "Provides monthly food assistance to Essex County residents; clients can pick up a standard bag of groceries (for a family of 4) once per month [oai_citation:5‡isaiahhouse.org](https://isaiahhouse.org/our_work/food-pantry-in-kind-donations/#:~:text=For%20pickup%2C%20an%20ID%20is,for%20a%20household%20of%20four). ID required for pickup.",
+                  "serviceType": "Food Pantry",
+                  "address": "238 North Munn Ave",
+                  "city": "East Orange",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07017",
+                  "phone": "(973) 678-5882",
+                  "email": "landerson@isaiahhouse.org",
+                  "website": "https://isaiahhouse.org",
+                  "hours": "Tue & Thu 12:30pm–3pm; Mon & Fri 10:30am–12:30pm [oai_citation:6‡isaiahhouse.org](https://isaiahhouse.org/our_work/food-pantry-in-kind-donations/#:~:text=Pantry%20Hours%3A)",
+                  "eligibility": "Residents in need (ID required, once per month)",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://isaiahhouse.org/",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            { "name": "Essex Fells", "resources": [] },
+            { "name": "Fairfield", "resources": [] },
+            { "name": "Glen Ridge", "resources": [] },
+            {
+              "name": "Irvington",
+              "resources": [
+                {
+                  "name": "Irvington Neighborhood Improvement Corporation (INIC)",
+                  "description": "Community service agency providing food pantry (4th Wed/Thu of month), daily soup kitchen (Mon–Fri 12–1pm lunch, 4–5pm dinner), and other support services for low-income Irvington residents [oai_citation:7‡irvingtonnj.gov](https://irvingtonnj.gov/irvington-neighborhood-improvement-corp/#:~:text=,during%20inclement%20weather).",
+                  "serviceType": "Social Services",
+                  "address": "346 16th Avenue",
+                  "city": "Irvington",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07111",
+                  "phone": "(973) 416-0916",
+                  "email": "jmonel@irvingtonnj.gov",
+                  "website": "https://irvingtonnj.gov/",
+                  "hours": "Food pantry: 4th Wed & Thu monthly; Soup kitchen: Mon–Fri lunch 12pm–1pm, dinner 4pm–5pm [oai_citation:8‡irvingtonnj.gov](https://irvingtonnj.gov/irvington-neighborhood-improvement-corp/#:~:text=,during%20inclement%20weather)",
+                  "eligibility": "Irvington residents",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://irvingtonnj.gov/",
+                  "categoryNames": ["Food", "Social Services"]
+                }
+              ]
+            },
+            { "name": "Livingston", "resources": [] },
+            { "name": "Maplewood", "resources": [] },
+            { "name": "Millburn", "resources": [] },
+            {
+              "name": "Montclair",
+              "resources": [
+                {
+                  "name": "Cornerstone House (Salvation Army Montclair Citadel)",
+                  "description": "23-bed homeless shelter for families and individuals in suburban Essex County, providing overnight shelter and support. Open daily from 6pm to 8am [oai_citation:9‡montclair.salvationarmy.org](https://montclair.salvationarmy.org/montclair/housing-services#:~:text=In%20general%2C%20Cornerstone%20is%20opened,manager%20365%20days%20each%20year) [oai_citation:10‡montclairlibrary.org](https://montclairlibrary.org/wp-content/uploads/Community_Services_Resource_Guide.pdf#:~:text=DEVELOPMENT%20CORPORATION%20%28MNDC%29%2068%20N,FULLERTON%20AVE%2C%20MONTCLAIR%2C%20NJ%2007042).",
+                  "serviceType": "Shelter",
+                  "address": "68 North Fullerton Ave",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07042",
+                  "phone": "(973) 744-8666",
+                  "email": "",
+                  "website": "https://montclair.salvationarmy.org",
+                  "hours": "Daily 6pm–8am [oai_citation:11‡montclair.salvationarmy.org](https://montclair.salvationarmy.org/montclair/housing-services#:~:text=In%20general%2C%20Cornerstone%20is%20opened,manager%20365%20days%20each%20year)",
+                  "eligibility": "Homeless families and individuals",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://montclair.salvationarmy.org",
+                  "categoryNames": ["Shelter", "Social Services"]
+                },
+                {
+                  "name": "Planned Parenthood of Metropolitan NJ - Montclair Center",
+                  "description": "Offers reproductive and sexual health services (family planning, STD testing, general healthcare) on a sliding fee scale [oai_citation:12‡montclairlibrary.org](https://montclairlibrary.org/wp-content/uploads/Community_Services_Resource_Guide.pdf#:~:text=29%20N%20FULLERTON%20AVE%2C%20MONTCLAIR%2C,PLANNED%20PARENTHOOD) [oai_citation:13‡npin.cdc.gov](https://npin.cdc.gov/organization/planned-parenthood-metropolitan-new-jersey-2#:~:text=29%20N%20Fullerton%20Ave%20Montclair%2C,NJ%2007042%20United%20States).",
+                  "serviceType": "Health Clinic",
+                  "address": "29 N Fullerton Ave",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07042",
+                  "phone": "(973) 746-7116",
+                  "email": "",
+                  "website": "https://www.plannedparenthood.org",
+                  "hours": "Mon 9am–3:30pm; Tue–Wed 9am–4:30pm; Thu 10am–6:30pm; Fri 9am–1:30pm [oai_citation:14‡npin.cdc.gov](https://npin.cdc.gov/organization/planned-parenthood-metropolitan-new-jersey-2#:~:text=)",
+                  "eligibility": "All individuals (sliding scale fees)",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://npin.cdc.gov/organization/planned-parenthood-metropolitan-new-jersey-2",
+                  "categoryNames": ["Health Services"]
+                },
+                {
+                  "name": "Interfaith Hospitality Network (IHN) of Essex County",
+                  "description": "Provides shelter and professional support for homeless families via local churches, helping them secure permanent housing [oai_citation:15‡bplnj.org](https://www.bplnj.org/community-services#:~:text=Interfaith%20Hospitality%20Network%20of%20Essex,other%20partners%20throughout%20our%20community).",
+                  "serviceType": "Shelter",
+                  "address": "46 Park St",
+                  "city": "Montclair",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07042",
+                  "phone": "(973) 746-1400",
+                  "email": "",
+                  "website": "https://ihnessexnj.org",
+                  "hours": "24/7 emergency family shelter",
+                  "eligibility": "Homeless families with children",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://ihnessexnj.org",
+                  "categoryNames": ["Shelter", "Social Services"]
+                }
+              ]
+            },
+            {
+              "name": "Newark",
+              "resources": [
+                {
+                  "name": "The Apostles' House - Emergency Shelter",
+                  "description": "Emergency shelter for women and children, offering safe, drug-free housing and supportive services to homeless families in Newark [oai_citation:16‡theapostleshouse.org](https://theapostleshouse.org/women-and-children-emergency-shelter/#:~:text=The%20Apostles%27%20House%20,NJ) [oai_citation:17‡theapostleshouse.org](https://theapostleshouse.org/women-and-children-emergency-shelter/#:~:text=Our%20facilities%20are%20operational%20,365%20days%20a%20year%2C%2024%2F7).",
+                  "serviceType": "Shelter",
+                  "address": "24 Grant St",
+                  "city": "Newark",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07104",
+                  "phone": "(973) 482-0625",
+                  "email": "info@theapostleshouse.org",
+                  "website": "https://theapostleshouse.org",
+                  "hours": "24/7, 365 days/year [oai_citation:18‡theapostleshouse.org](https://theapostleshouse.org/women-and-children-emergency-shelter/#:~:text=Our%20facilities%20are%20operational%20,365%20days%20a%20year%2C%2024%2F7)",
+                  "eligibility": "Homeless women and children",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://theapostleshouse.org/",
+                  "categoryNames": ["Shelter", "Social Services"]
+                },
+                {
+                  "name": "The Apostles' House Food Pantry",
+                  "description": "Large community food pantry serving Newark, distributing groceries and meals multiple days per week to prevent hunger [oai_citation:19‡theapostleshouse.org](https://theapostleshouse.org/food-pantry/#:~:text=The%20Apostles%E2%80%99%20House%20Food%20Pantry,open%20multiple%20days%20per%20week) [oai_citation:20‡theapostleshouse.org](https://theapostleshouse.org/food-pantry/#:~:text=The%20pantry%20is%20located%20at,10%20AM%20to%203%20PM).",
+                  "serviceType": "Food Pantry",
+                  "address": "22 Grant St",
+                  "city": "Newark",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07104",
+                  "phone": "(973) 482-0625",
+                  "email": "info@theapostleshouse.org",
+                  "website": "https://theapostleshouse.org",
+                  "hours": "Mon, Wed, Fri 10am–3pm [oai_citation:21‡theapostleshouse.org](https://theapostleshouse.org/food-pantry/#:~:text=The%20pantry%20is%20located%20at,10%20AM%20to%203%20PM)",
+                  "eligibility": "Individuals and families experiencing food insecurity",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://theapostleshouse.org/",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "Covenant House New Jersey (Youth Engagement Center)",
+                  "description": "24/7 homeless shelter for youth (ages 18–21, up to 24), providing dormitory living, meals, and support services. Always open to homeless youth in need [oai_citation:22‡covenanthousenj.org](https://covenanthousenj.org/find-support/immediate-services/#:~:text=,human%20trafficking%20of%20all%20ages) [oai_citation:23‡covenanthousenj.org](https://covenanthousenj.org/find-support/immediate-services/#:~:text=).",
+                  "serviceType": "Shelter",
+                  "address": "330 Washington St",
+                  "city": "Newark",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07102",
+                  "phone": "(973) 621-8705",
+                  "email": "chnj@covenanthouse.org",
+                  "website": "https://covenanthousenj.org",
+                  "hours": "24/7",
+                  "eligibility": "Homeless youth (ages 18–21)",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://covenanthousenj.org/find-support/immediate-services/",
+                  "categoryNames": ["Shelter", "Youth"]
+                },
+                {
+                  "name": "New Community Emergency Food Pantry",
+                  "description": "Monthly emergency food pantry at 220 Bruce St open weekdays, serving Newark residents in need with groceries (canned goods, produce, frozen items) [oai_citation:24‡newcommunity.org](https://www.newcommunity.org/emergency-food-pantry/#:~:text=New%20Community%20Corporation%20operates%20an,and%20even%20frozen%2C%20whole%20chickens) [oai_citation:25‡newcommunity.org](https://www.newcommunity.org/emergency-food-pantry/#:~:text=Food%20is%20distributed%20at%20220,while%20supplies%20last).",
+                  "serviceType": "Food Pantry",
+                  "address": "220 Bruce St",
+                  "city": "Newark",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07103",
+                  "phone": "(973) 623-6114",
+                  "email": "",
+                  "website": "https://www.newcommunity.org",
+                  "hours": "Mon–Fri 10am–2pm (food distribution) [oai_citation:26‡newcommunity.org](https://www.newcommunity.org/emergency-food-pantry/#:~:text=Food%20is%20distributed%20at%20220,while%20supplies%20last)",
+                  "eligibility": "Individuals and families in need (NJ ID required) [oai_citation:27‡newcommunity.org](https://www.newcommunity.org/emergency-food-pantry/#:~:text=The%20food%20pantry%20requires%3A%20%E2%80%93,Social%20Security%20award%20letter%2C%20etc)",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.newcommunity.org",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "YMCA of Newark and Vicinity — Emergency Residence Shelter",
+                  "description": "Emergency residence shelter serving individuals and families, offering 300 beds, case‑management, community dining, laundry facilities, and supportive services including employment readiness, health screening, and housing search assistance.",
+                  "serviceType": "Shelter",
+                  "address": "600 Broad St",
+                  "city": "Newark",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07102",
+                  "phone": "(973) 624‑8900",
+                  "email": "jking@newarkymca.org",
+                  "website": "https://www.newarkymca.org/main/emergency-shelter/",
+                  "hours": "24/7 (residential facility)",
+                  "eligibility": "Individuals and families experiencing homelessness",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.newarkymca.org/main/emergency-shelter/",
+                  "categoryNames": ["Shelter", "Social Services"]
+                }
+              ]
+            },
+            { "name": "North Caldwell", "resources": [] },
+            { "name": "Nutley", "resources": [] },
+            {
+              "name": "Orange",
+              "resources": [
+                {
+                  "name": "Interfaith Food Pantry of the Oranges",
+                  "description": "Provides food assistance to residents of the Orange area through pantry distributions; serves Orange, East Orange, and West Orange [oai_citation:28‡westorange.org](https://westorange.org/247/Services#:~:text=1,Orange%2C%20NJ%2007050).",
+                  "serviceType": "Food Pantry",
+                  "address": "357 S Jefferson St",
+                  "city": "Orange",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07050",
+                  "phone": "(973) 856-4000",
+                  "email": "",
+                  "website": "https://www.orangesfoodpantry.org",
+                  "hours": "",
+                  "eligibility": "Residents of Orange, East Orange, and West Orange",
+                  "appointmentRequired": false,
+                  "sourceUrl": "https://www.orangesfoodpantry.org",
+                  "categoryNames": ["Food"]
+                }
+              ]
+            },
+            { "name": "Roseland", "resources": [] },
+            { "name": "South Orange", "resources": [] },
+            { "name": "Verona", "resources": [] },
+            { "name": "West Caldwell", "resources": [] },
+            {
+              "name": "West Orange",
+              "resources": [
+                {
+                  "name": "Holy Trinity Food Pantry",
+                  "description": "Emergency food pantry run by Holy Trinity Church, distributing groceries to West Orange residents on scheduled days [oai_citation:29‡westorange.org](https://westorange.org/247/Services#:~:text=1,West%20Orange%2C%20NJ%2007052).",
+                  "serviceType": "Food Pantry",
+                  "address": "315 Main St",
+                  "city": "West Orange",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07052",
+                  "phone": "(201) 341-9217",
+                  "email": "",
+                  "website": "http://holytrinitywo.org",
+                  "hours": "Tuesdays 9am–12pm",
+                  "eligibility": "West Orange residents",
+                  "appointmentRequired": false,
+                  "sourceUrl": "http://holytrinitywo.org/",
+                  "categoryNames": ["Food"]
+                },
+                {
+                  "name": "Zufall Community Health Center - West Orange",
+                  "description": "FQHC providing medical and dental care (family medicine, pediatrics, OB/GYN, HIV services, dental) on a sliding fee scale [oai_citation:30‡zufallhealth.org](https://www.zufallhealth.org/about-us/locations/west-orange-medical-dental/#:~:text=Services).",
+                  "serviceType": "Health Clinic",
+                  "address": "49 Mount Pleasant Ave",
+                  "city": "West Orange",
+                  "county": "Essex",
+                  "state": "NJ",
+                  "zipCode": "07052",
+                  "phone": "(973) 325-2266",
+                  "email": "",
+                  "website": "https://www.zufallhealth.org",
+                  "hours": "Mon 8am–5pm; Tue 8am–6pm; Wed 8am–6pm; Thu 8am–5pm; Fri 8am–5pm; Sat 8am–1pm [oai_citation:31‡zufallhealth.org](https://www.zufallhealth.org/about-us/locations/west-orange-medical-dental/#:~:text=,8%3A00%20AM%20%E2%80%93%201%3A00%20PM)",
+                  "eligibility": "All; sliding scale fees",
+                  "appointmentRequired": true,
+                  "sourceUrl": "https://www.zufallhealth.org",
+                  "categoryNames": ["Health Services"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
