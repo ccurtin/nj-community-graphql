@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: nj-community-graphql
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npx ts-node src/index.ts
+    envVars:
+      - key: NODE_VERSION
+        value: 22
